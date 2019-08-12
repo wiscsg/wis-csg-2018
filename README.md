@@ -1,4 +1,4 @@
-# CSG-Wis
+# WiS-CSG
 
 Women in Science (WiS) sub-group of the PhD Career Support Group (CSG), is a group of volunteers who aim to highlight the different challenges faced by women in science. 
 
@@ -10,7 +10,16 @@ You can find the related articles as a 5-part series on ClubSciWri.
 
 **Add links here**
 
+## Overview
+
 ![](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/images/overview.jpeg?raw=true)
+
+## Raw data
+
+The raw file of the surey data is available in the [data folder](./data). Please note that any information that can be traced back to our respondent's identity have been removed.
+
+Zenodo link: Will be added soon.
+DOI: Will be added soon.
 
 # License
 
