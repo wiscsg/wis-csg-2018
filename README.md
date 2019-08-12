@@ -10,7 +10,7 @@ You can find the related articles as a 5-part series on ClubSciWri.
 
 **Add links here**
 
-![](./images/overiew.jpeg)
+![](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/images/overview.jpeg?raw=true)
 
 # License
 
