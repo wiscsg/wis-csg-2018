@@ -6,7 +6,7 @@ WiS-CSG is a group of volunteers that evolved from the [StemPeers](http://www.st
 
 # About *Women in Science* Survey 2018
 
-In early 2018, a post on StemPeers - previously known as Career Support Group (CSG) - asking about the challenges faced by women in their workplace/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
+In early 2018, a post on StemPeers (CSG) asking about the challenges faced by women in their workplace/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
 
 ## Authors and Attribution
 
