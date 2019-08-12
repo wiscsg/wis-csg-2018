@@ -1,10 +1,11 @@
 # Authors and Attribution
 
+(Name, Affiliation at the time of contribution) 
+
+*sorted alphabetically*
+
 ## This survey was designed by the following members 
 
-*sorted alphabatically*
-
-(Name, Affiliation at the time of contribution, Country)
 - Aishwarya Swaminathan, TBA
 - Awanti Sambarey Pandit, TBA
 - Disha Chauhan, TBA
@@ -19,9 +20,6 @@
 
 ## The analysis of the survey data was conducted by the following members 
 
-*sorted alphabatically*
-
-(Name, Affiliation at the time of contribution)
 - Aishwarya Swaminathan, TBA
 - Ashwani Sharma, TBA
 - Divya Swaminathan, TBA 
