@@ -1,6 +1,6 @@
 # The Work-Life Equilibrium: In-Balance or Imbalance?
 
-| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://csgsciencesurvey.github.io/WiS-CSG) |
+| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://github.com/wiscsg/WiS-CSG) |
 
 - Authors: [Aishwarya Swaminathan and Siddarth Chandrasekaran](./authors_contributors.md)
 
@@ -8,4 +8,4 @@
 
 **To be published**
 
-| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://csgsciencesurvey.github.io/WiS-CSG) | 
+| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://github.com/wiscsg/WiS-CSG) | 
