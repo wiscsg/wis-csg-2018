@@ -1,6 +1,6 @@
 # Code of Conduct
 
-| [RETURN HOME](https://wiscsg.github.io/WiS-CSG/) |
+| [RETURN HOME](https://wiscsg.github.io/wis-csg-2018/) |
 
 This code of conduct outlines our expectations for participants within the WiS-CSG group and the community, as well as steps to reporting unacceptable behavior.
 
