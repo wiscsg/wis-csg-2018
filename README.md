@@ -1,10 +1,10 @@
-# WiS-CSG
+# WiS-CSG: Women in Science - Career Support Group
 
-Women in Science (WiS) sub-group of the PhD Career Support Group (CSG), is a group of volunteers who aim to highlight the different challenges faced by women in science. 
+Women in Science (WiS) is a group of volunteers that evolved from the [StemPeers](http://www.stempeers.org/), previously known as PhD Career Support Group (CSG), who aim to highlight the different challenges faced by women in science. 
 
 # About CSG-Wis Survey 2018
 
-In early 2018, a post on Career Support Group (CSG) asking about the challenges faced by women in their work place/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS) sub-group of the PhD Career Support Group (CSG), a group of volunteers both women and men who care about the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
+In early 2018, a post on StemPeers - previously known as Career Support Group (CSG) - asking about the challenges faced by women in their work place/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
 
 You can find the related articles as a 5-part series on ClubSciWri. A local version of these articles will be added to this repository soon.
 
