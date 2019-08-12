@@ -1,5 +1,7 @@
 # Code of Conduct
 
+| [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) |
+
 This code of conduct outlines our expectations for participants within the WIS-CSG community, as well as steps to reporting unacceptable behavior.
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by the Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
@@ -60,3 +62,5 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. If
 This code of conduct is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) from the [TODOGroup](http://todogroup.org) and the existing documents from [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
 
 We are thankful for their work and all the communities who have paved the way with code of conducts.
+
+| [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) |
