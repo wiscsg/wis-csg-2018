@@ -20,7 +20,8 @@ You can find the related articles as a 5-part series on ClubSciWri.
 
 ### Article 3
 
-
+- [Does Every Biased Action Have an Effective Reaction?](https://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team3_20190325.pdf)
+- Author: Malvika Sharan, European Molecular Biology Laboratory
 
 ### Article 4
 
