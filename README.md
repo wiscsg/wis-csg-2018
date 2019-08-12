@@ -32,27 +32,27 @@ You can find the report of the data analysis, and related articles as a 5-part s
 ### Article 1
 
 - [An unequal support conundrum](https://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team1_20190308-2.pdf)
-- Authors: Shubhendu Sen, Diya Swaminathan
+- Authors: [Shubhendu Sen, Diya Swaminathan](./authors_contributors.md)
 
 ### Article 2
 
 - [Gender Bias: Myth or Fact?](https://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team2_20190318-Final.pdf)
-- Authors: Ashwani Kumar and Shivasankari Gomathinayagam
+- Authors: [Ashwani Kumar and Shivasankari Gomathinayagam](./authors_contributors.md)
 
 ### Article 3
 
 - [Does Every Biased Action Have an Effective Reaction?](https://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team3_20190325.pdf)
-- Author: Malvika Sharan, European Molecular Biology Laboratory
+- Author: [Malvika Sharan](./authors_contributors.md)
 
 ### Article 4
 
 - [Gender Diversity Paradox: Her Leadership Story](https://www.sciwri.club/wp-content/uploads/2019/04/CGS-WiS_Team4_20190409.pdf)
-- Authors: Soudeh Yaghouti and Poorva Dharkar
+- Authors: [Soudeh Yaghouti and Poorva Dharkar](./authors_contributors.md)
 
 ### Article 5
 
 - [The Work-Life Equilibrium: In-Balance or Imbalance?](https://www.sciwri.club/wp-content/uploads/2019/04/CGS-WiS_Team5_20190422.pdf)
-- Authors: Aishwarya Swaminathan and Siddarth Chandrasekaran
+- Authors: [Aishwarya Swaminathan and Siddarth Chandrasekaran](./authors_contributors.md)
 
 # License
 
