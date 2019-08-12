@@ -15,7 +15,7 @@ currently located in different cities in the India, Europe, and USA.
 ## Raw data
 
 The raw file of the surey data is available in the [data folder](https://github.com/csgsciencesurvey/WISCSG2018/tree/master/data). 
-Please note that any information that can be traced back to our respondent's identity have been removed.
+Please note that any information that can be traced back to our respondent's identity have been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://github.com/csgsciencesurvey/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the suvey. 
 
 *Zenodo link and DOI will be added soon.*
 
