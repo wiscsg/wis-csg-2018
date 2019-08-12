@@ -1,6 +1,6 @@
 # Gender Diversity Paradox: Her Leadership Story
 
-| [PREVIOUS POST](part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://github.com/wiscsg/WiS-CSG) | [NEXT POST](part-5-the-work-life-equilibrium.md) |
+| [PREVIOUS POST](part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) | [NEXT POST](part-5-the-work-life-equilibrium.md) |
 
 - Authors: [Soudeh Yaghouti and Poorva Dharkar](./authors_contributors.md)
 
@@ -8,4 +8,4 @@
 
 **To be published**
 
-| [PREVIOUS POST](part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://github.com/wiscsg/WiS-CSG) | [NEXT POST](part-5-the-work-life-equilibrium.md) |
+| [PREVIOUS POST](part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) | [NEXT POST](part-5-the-work-life-equilibrium.md) |
