@@ -68,6 +68,6 @@ Please read our [code of conduct](./code-of-conduct.md), that outlines our expec
 
 # [The GitHub repo](https://github.com/csgsciencesurvey/WISCSG2018/)
 
-This GitHub repo is maintained by [Malvika Sharan](http://about.me/malvikasharan), on behalf of the members from the WIS-CSG group. This repository will be used to publish our dataset, codes, and articles under the Open Access and Open Source License.
+This GitHub repo is maintained by [Malvika Sharan](http://about.me/malvikasharan), on behalf of the members from the WIS-CSG group. This repository will be used to publish our [dataset](https://github.com/csgsciencesurvey/WiS-CSG/tree/master/data), [source code](https://github.com/csgsciencesurvey/WiS-CSG/tree/master/code), and [articles](https://github.com/csgsciencesurvey/WiS-CSG/tree/master/posts) under the Open Access and Open Source Licenses.
 
 
