@@ -6,7 +6,22 @@ Women in Science (WiS) is a group of volunteers that evolved from the [StemPeers
 
 In early 2018, a post on StemPeers - previously known as Career Support Group (CSG) - asking about the challenges faced by women in their work place/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
 
-You can find the related articles as a 5-part series on ClubSciWri. A local version of these articles will be added to this repository soon.
+# Authors and Attribution
+
+This project was designed, executed, and written by a number of scientists, 
+currently located in different cities in the India, Europe, and USA. 
+[Read about them](./authors_contributors.md).
+
+## Raw data
+
+The raw file of the surey data is available in the [data folder](./data). 
+Please note that any information that can be traced back to our respondent's identity have been removed.
+
+*Zenodo link and DOI will be added soon.*
+
+## Data Analysis and Report
+
+You can find the report of the data analysis, and related articles as a 5-part series on ClubSciWri. A local version of these articles will be added to this repository soon.
 
 ## Overview
 
@@ -38,20 +53,6 @@ You can find the related articles as a 5-part series on ClubSciWri. A local vers
 
 - [The Work-Life Equilibrium: In-Balance or Imbalance?](https://www.sciwri.club/wp-content/uploads/2019/04/CGS-WiS_Team5_20190422.pdf)
 - Authors: Aishwarya Swaminathan and Siddarth Chandrasekaran
-
-## Raw data
-
-The raw file of the surey data is available in the [data folder](./data). 
-Please note that any information that can be traced back to our respondent's identity have been removed.
-
-Zenodo link: Will be added soon.
-DOI: Will be added soon.
-
-# Authors and Attribution
-
-This project was designed, executed, and written by a number of scientists, 
-currently located in different cities in the India, Europe, and USA. 
-[Read about them](./authors_contributors.md).
 
 # License
 
