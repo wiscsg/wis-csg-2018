@@ -6,7 +6,7 @@ Women in Science (WiS) sub-group of the PhD Career Support Group (CSG), is a gro
 
 In early 2018, a post on Career Support Group (CSG) asking about the challenges faced by women in their work place/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS) sub-group of the PhD Career Support Group (CSG), a group of volunteers both women and men who care about the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
 
-You can find the related articles as a 5-part series on ClubSciWri.
+You can find the related articles as a 5-part series on ClubSciWri. A local version of these articles will be added to this repository soon.
 
 ## Overview
 
@@ -48,18 +48,20 @@ DOI: Will be added soon.
 
 # Authors and Attribution
 
-This project was designed, executed, and written by a number of scientists, currently located in different cities in the India, Europe, and USA. [Read about them](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/authors_contributors.md).
+This project was designed, executed, and written by a number of scientists, currently located in different cities in the India, Europe, and USA. [Read about them](./authors_contributors.md).
 
 # License
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/csgsciencesurvey/csgwis2018/blob/master/CC-BY-SA-4.0).
+Documentation and articles associated with this work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](./CC-BY-SA-4.0).
 
-Please attach a copy of the license along with this
-work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
+The source codes are available under the [MIT licence](./code/LICENSE).
+
+Please attach a copy of these licenses along with this
+work. 
 
 # Code of Conduct
 
-Please read our [code of conduct](code-of-conduct.md), that outlines our expectations for participants within the WIS-CSG community. If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
+Please read our [code of conduct](./code-of-conduct.md), that outlines our expectations for participants within the WIS-CSG community. If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
 
 
