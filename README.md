@@ -32,3 +32,35 @@ work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 # Code of Conduct
 
 Please read our [code of conduct](code-of-conduct.md), that outlines our expectations for participants within the WIS-CSG community. If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
+
+# Authors and Attribution
+
+## This survey was designed by the following members (sorted alphabatically)
+
+(Name, Affiliation at the time of contribution, Country)
+- Aishwarya Swaminathan
+- Awanti Sambarey Pandit
+- Disha Chauhan
+- Heena Khatter, European Molecular Biology Laboratory, Germany
+- Madhurima Das
+- Malvika Sharan, European Molecular Biology Laboratory, Germany
+- Manasi Pethe
+- Pallashri Saha
+- Radhika Gopal
+- Sandhya Sekar
+- Shivasankari Gomathinayagam
+
+## The analysis of the survey data was conducted by the following members (sorted alphabatically)
+
+(Name, Affiliation at the time of contribution)
+
+- Aishwarya Swaminathan,
+- Ashwani Sharma, 
+- Divya Swaminathan, 
+- Malvika Sharan, European Molecular Biology Laboratory, Germany 
+- Soudeh Yaghouti,
+- Poorva Dharkar, 
+- Shivasankari Gomathinayagam, 
+- Shubhendu Sen Roy, 
+- Shraddha Lad, 
+- Siddarth Chandrasekaran, 
