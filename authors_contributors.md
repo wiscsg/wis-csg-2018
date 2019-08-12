@@ -25,7 +25,7 @@
 - Aishwarya Swaminathan, TBA
 - Ashwani Sharma, TBA
 - Divya Swaminathan, TBA 
-- Malvika Sharan, European Molecular Biology Laboratory, Germany 
+- [Malvika Sharan](http://about.me/malvikasharan), European Molecular Biology Laboratory, Germany
 - Soudeh Yaghouti, TBA
 - Poorva Dharkar, TBA 
 - Shivasankari Gomathinayagam, TBA 
