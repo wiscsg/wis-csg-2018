@@ -14,8 +14,9 @@ currently located in different cities in the India, Europe, and USA.
 
 ## Raw data
 
-The raw file of the surey data is available in the [data folder](https://github.com/wiscsg/WiS-CSG/tree/master/data). 
-Please note that any information that can be traced back to our respondent's identity have been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://github.com/wiscsg/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the suvey. 
+The raw file of the surey data is available in the [data folder](https://github.com/wiscsg/wis-csg-2018/tree/master/data). 
+Please note that any information that can be traced back to our respondent's identity have been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://
+.com/wiscsg/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the suvey. 
 
 *Zenodo link and DOI will be added soon.*
 
@@ -25,7 +26,7 @@ You can find the report of the data analysis, and related articles as a 5-part s
 
 ### Demography of the respondants
 
-![](https://github.com/wiscsg/WiS-CSG/blob/master/images/overview.jpeg?raw=true)
+![](https://github.com/wiscsg/wis-csg-2018/blob/master/images/overview.jpeg?raw=true)
 
 *Illustration by: [Vibhav Nadkarni](https://www.linkedin.com/in/vibhavnadkarni/), [PgDipSci](https://www.linkedin.com/in/vibhavnadkarni/), sponsored by [Sci-Illustrate](https://www.sci-illustrate.com/) and originally published on [sciwri.club](https://www.sciwri.club/?s=CGS-WiS_Team)*
 
@@ -57,8 +58,8 @@ You can find the report of the data analysis, and related articles as a 5-part s
 # License
 
 Documentation and articles associated with this work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/wiscsg/WiS-CSG/blob/master/CC-BY-SA-4.0).
-The source codes are available under the [MIT licence](https://github.com/wiscsg/WiS-CSG/blob/master/code/LICENSE). 
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/wiscsg/wis-csg-2018/blob/master/CC-BY-SA-4.0).
+The source codes are available under the [MIT licence](https://github.com/wiscsg/wis-csg-2018/blob/master/code/LICENSE). 
 Please attach a copy of these licenses along with this
 work. 
 
@@ -66,9 +67,9 @@ work.
 
 Please read our [code of conduct](./code-of-conduct.md), that outlines our expectations for participants within the WIS-CSG community. If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
 
-# [The GitHub repo](https://github.com/wiscsg/WiS-CSG)
+# [The GitHub repo](https://github.com/wiscsg/wis-csg-2018)
 
 This 
-repo is maintained by [Malvika Sharan](http://about.me/malvikasharan), on behalf of the members from the WiS-CSG group. This repository will be used to publish our [dataset](https://github.com/wiscsg/WiS-CSG/tree/master/data), [source code](https://github.com/wiscsg/WiS-CSG/tree/master/code), and [articles](https://github.com/wiscsg/WiS-CSG/tree/master/posts) under the Open Access and Open Source Licenses.
+repo is maintained by [Malvika Sharan](http://about.me/malvikasharan), on behalf of the members from the WiS-CSG group. This repository will be used to publish our [dataset](https://github.com/wiscsg/wis-csg-2018/tree/master/data), [source code](https://github.com/wiscsg/wis-csg-2018/tree/master/code), and [articles](https://github.com/wiscsg/wis-csg-2018/tree/master/posts) under the Open Access and Open Source Licenses.
 
 
