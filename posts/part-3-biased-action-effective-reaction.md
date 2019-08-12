@@ -1,6 +1,6 @@
 # Does Every Biased Action Have an Effective Reaction?
 
-| [PREVIOUS POST](part-2-gender-bias-myth-or-fact.md) | [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) | [NEXT POST](part-4-gender-diversity-paradox.md) |
+| [PREVIOUS POST](part-2-gender-bias-myth-or-fact.md) | [RETURN HOME](https://csgsciencesurvey.github.io/WiS-CSG/) | [NEXT POST](part-4-gender-diversity-paradox.md) |
 
 - Author: [Malvika Sharan](./authors_contributors.md)
 
@@ -8,4 +8,4 @@
 
 **To be published**
 
-| [PREVIOUS POST](part-2-gender-bias-myth-or-fact.md) | [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) | [NEXT POST](part-4-gender-diversity-paradox.md) |
+| [PREVIOUS POST](part-2-gender-bias-myth-or-fact.md) | [RETURN HOME](https://csgsciencesurvey.github.io/WiS-CSG/) | [NEXT POST](part-4-gender-diversity-paradox.md) |
