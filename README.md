@@ -32,7 +32,7 @@ You can find the report of the data analysis, and related articles as a 5-part s
 ### Article 1
 
 - [An unequal support conundrum](./posts/part-1-An-unequal-support-conundrum.md), earlier version on [sciwri.club](https://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team1_20190308-2.pdf)
-- Authors: [Shubhendu Sen, Diya Swaminathan](./authors_contributors.md)
+- Authors: [Shubhendu Sen, Divya Swaminathan](./authors_contributors.md)
 
 ### Article 2
 
