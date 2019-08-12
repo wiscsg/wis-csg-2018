@@ -1,5 +1,7 @@
 # WiS-CSG: Women in Science - Career Support Group
 
+[![DOI](https://zenodo.org/badge/201889459.svg)](https://zenodo.org/badge/latestdoi/201889459)
+
 WiS-CSG is a group of volunteers that evolved from the [StemPeers](http://www.stempeers.org/), previously known as Career Support Group (CSG), who aim to highlight the different challenges faced by women in science. 
 
 # About *Women in Science* Survey 2018
