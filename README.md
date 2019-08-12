@@ -27,7 +27,7 @@ You can find the report of the data analysis, and related articles as a 5-part s
 
 ![](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/images/overview.jpeg?raw=true)
 
-*Illustration by: [Vibhav Nadkarni](https://www.linkedin.com/in/vibhavnadkarni/), [PgDipSci](https://www.linkedin.com/in/vibhavnadkarni/), Originally published on [sciwri.club](https://www.sciwri.club/?s=CGS-WiS_Team)*
+*Illustration by: [Vibhav Nadkarni](https://www.linkedin.com/in/vibhavnadkarni/), [PgDipSci](https://www.linkedin.com/in/vibhavnadkarni/), sponsored by [Sci-Illustrate](https://www.sci-illustrate.com/) and originally published on [sciwri.club](https://www.sciwri.club/?s=CGS-WiS_Team)*
 
 ### Article 1
 
