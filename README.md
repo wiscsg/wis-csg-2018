@@ -21,9 +21,9 @@ Please note that any information that can be traced back to our respondent's ide
 
 ## Analysis and Report
 
-You can find the report of the data analysis, and related articles as a 5-part series on ClubSciWri. A local version of these articles will be added to this repository soon.
+You can find the report of the data analysis, and related articles as a 5-part series.
 
-## Demography of the survvey respondants
+### Demography of the survvey respondants
 
 ![](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/images/overview.jpeg?raw=true)
 
