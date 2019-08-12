@@ -1,22 +1,22 @@
 # WiS-CSG: Women in Science - Career Support Group
 
-WiS-CSG is a group of volunteers that evolved from the [StemPeers](http://www.stempeers.org/), previously known as PhD Career Support Group (CSG), who aim to highlight the different challenges faced by women in science. 
+WiS-CSG is a group of volunteers that evolved from the [StemPeers](http://www.stempeers.org/), previously known as Career Support Group (CSG), who aim to highlight the different challenges faced by women in science. 
 
 # About *Women in Science* Survey 2018
 
-In early 2018, a post on StemPeers - previously known as Career Support Group (CSG) - asking about the challenges faced by women in their work place/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
+In early 2018, a post on StemPeers - previously known as Career Support Group (CSG) - asking about the challenges faced by women in their workplace/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
 
 ## Authors and Attribution
 
-This project was designed, executed, and written by a number of scientists, 
-currently located in different cities in the India, Europe, and USA. 
+This project was designed, executed, and written by several scientists, 
+currently located in different cities in India, Europe, and the USA. 
 [Read about them](./authors_contributors.md).
 
 ## Raw data
 
-The raw file of the surey data is available in the [data folder](https://github.com/wiscsg/wis-csg-2018/tree/master/data). 
-Please note that any information that can be traced back to our respondent's identity have been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://
-.com/wiscsg/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the suvey. 
+The raw file of the survey data is available in the [data folder](https://github.com/wiscsg/wis-csg-2018/tree/master/data). 
+Please note that any information that can be traced back to our respondent's identity has been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://
+.com/wiscsg/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the survey. 
 
 *Zenodo link and DOI will be added soon.*
 
@@ -24,7 +24,7 @@ Please note that any information that can be traced back to our respondent's ide
 
 You can find the report of the data analysis, and related articles as a 5-part series.
 
-### Demography of the respondants
+### Demography of the respondents
 
 ![](https://github.com/wiscsg/wis-csg-2018/blob/master/images/overview.jpeg?raw=true)
 
@@ -59,7 +59,7 @@ You can find the report of the data analysis, and related articles as a 5-part s
 
 Documentation and articles associated with this work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/wiscsg/wis-csg-2018/blob/master/CC-BY-SA-4.0).
-The source codes are available under the [MIT licence](https://github.com/wiscsg/wis-csg-2018/blob/master/code/LICENSE). 
+The source codes are available under the [MIT license](https://github.com/wiscsg/wis-csg-2018/blob/master/code/LICENSE). 
 Please attach a copy of these licenses along with this
 work. 
 
