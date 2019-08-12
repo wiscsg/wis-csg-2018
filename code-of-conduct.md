@@ -2,7 +2,7 @@
 
 | [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) |
 
-This code of conduct outlines our expectations for participants within the WIS-CSG community, as well as steps to reporting unacceptable behavior.
+This code of conduct outlines our expectations for participants within the WiS-CSG group and the community, as well as steps to reporting unacceptable behavior.
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by the Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
@@ -46,7 +46,7 @@ Although this list cannot be exhaustive, we explicitly honor all people regadles
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [](mailto:csg.womeninscience@gmail.com). All reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). All reports will be handled with discretion. In your report please include:
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please
