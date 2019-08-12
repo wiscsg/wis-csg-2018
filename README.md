@@ -66,6 +66,6 @@ Please read our [code of conduct](./code-of-conduct.md), that outlines our expec
 
 # About [the main GitHub repo](https://github.com/csgsciencesurvey/WISCSG2018/)
 
-This GitHub repo is maintained by [Malvika Sharan](), on behalf of the members from the WIS-CSG group.
+This GitHub repo is maintained by [Malvika Sharan](http://about.me/malvikasharan), on behalf of the members from the WIS-CSG group.
 
 
