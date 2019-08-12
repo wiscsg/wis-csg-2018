@@ -8,6 +8,12 @@ In early 2018, a post on Career Support Group (CSG) asking about the challenges 
 
 You can find the related articles as a 5-part series on ClubSciWri.
 
+## Overview
+
+![](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/images/overview.jpeg?raw=true)
+
+*Illustration by: [Vibhav Nadkarni](https://www.linkedin.com/in/vibhavnadkarni/), [PgDipSci](https://www.linkedin.com/in/vibhavnadkarni/), Originally published on [sciwri.club](https://www.sciwri.club/?s=CGS-WiS_Team)*
+
 ### Article 1
 
 - [An unequal support conundrum](https://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team1_20190308-2.pdf)
@@ -33,9 +39,7 @@ You can find the related articles as a 5-part series on ClubSciWri.
 - [The Work-Life Equilibrium: In-Balance or Imbalance?](https://www.sciwri.club/wp-content/uploads/2019/04/CGS-WiS_Team5_20190422.pdf)
 - Authors: Aishwarya Swaminathan and Siddarth Chandrasekaran
 
-## Overview
-
-![](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/images/overview.jpeg?raw=true)
+# Authors and Attribution
 
 ## Raw data
 
@@ -55,40 +59,5 @@ work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 # Code of Conduct
 
 Please read our [code of conduct](code-of-conduct.md), that outlines our expectations for participants within the WIS-CSG community. If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
-
-# Authors and Attribution
-
-## This survey was designed by the following members 
-
-*sorted alphabatically*
-
-(Name, Affiliation at the time of contribution, Country)
-- Aishwarya Swaminathan, TBA
-- Awanti Sambarey Pandit, TBA
-- Disha Chauhan, TBA
-- Heena Khatter, European Molecular Biology Laboratory, Germany
-- Madhurima Das, TBA
-- Malvika Sharan, European Molecular Biology Laboratory, Germany
-- Manasi Pethe, TBA
-- Pallashri Saha, TBA
-- Radhika Gopal, TBA
-- Sandhya Sekar, TBA
-- Shivasankari Gomathinayagam, TBA
-
-## The analysis of the survey data was conducted by the following members 
-
-*sorted alphabatically*
-
-(Name, Affiliation at the time of contribution)
-- Aishwarya Swaminathan, TBA
-- Ashwani Sharma, TBA
-- Divya Swaminathan, TBA 
-- Malvika Sharan, European Molecular Biology Laboratory, Germany 
-- Soudeh Yaghouti, TBA
-- Poorva Dharkar, TBA 
-- Shivasankari Gomathinayagam, TBA 
-- Shubhendu Sen Roy, TBA 
-- Shraddha Lad, TBA 
-- Siddarth Chandrasekaran, TBA 
 
 
