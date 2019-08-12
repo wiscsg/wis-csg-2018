@@ -64,4 +64,8 @@ work.
 
 Please read our [code of conduct](./code-of-conduct.md), that outlines our expectations for participants within the WIS-CSG community. If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
 
+# About [the main GitHub repo](https://github.com/csgsciencesurvey/WISCSG2018/)
+
+This GitHub repo is maintained by [Malvika Sharan](), on behalf of the WIS-CSG team.
+
 
