@@ -10,7 +10,7 @@
 - Disha Chauhan, TBA
 - Heena Khatter, European Molecular Biology Laboratory, Germany
 - Madhurima Das, TBA
-- Malvika Sharan, European Molecular Biology Laboratory, Germany
+- [Malvika Sharan](http://about.me/malvikasharan), European Molecular Biology Laboratory, Germany
 - Manasi Pethe, TBA
 - Pallashri Saha, TBA
 - Radhika Gopal, TBA
