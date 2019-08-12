@@ -1,6 +1,6 @@
 # An unequal support conundrum 
 
-| [RETURN HOME](https://csgsciencesurvey.github.io/WiS-CSG) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
+| [RETURN HOME](https://github.com/wiscsg/WiS-CSG) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
 
 - Authors: [Shubhendu Sen, Divya Swaminathan](./authors_contributors.md)
 
@@ -8,4 +8,4 @@
 
 **To be published**
 
-| [RETURN HOME](https://csgsciencesurvey.github.io/WiS-CSG/) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
+| [RETURN HOME](https://github.com/wiscsg/WiS-CSG) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
