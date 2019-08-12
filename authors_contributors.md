@@ -1,6 +1,6 @@
 # Authors and Attribution
 
-| [RETURN HOME](./README.md) |
+| [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) |
 
 (Name, Affiliation at the time of contribution) 
 
@@ -33,4 +33,4 @@
 - Shraddha Lad, TBA 
 - Siddarth Chandrasekaran, TBA 
 
-| [RETURN HOME](./README.md) |
+| [RETURN HOME](https://csgsciencesurvey.github.io/WISCSG2018/) |
