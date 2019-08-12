@@ -39,14 +39,16 @@ You can find the related articles as a 5-part series on ClubSciWri.
 - [The Work-Life Equilibrium: In-Balance or Imbalance?](https://www.sciwri.club/wp-content/uploads/2019/04/CGS-WiS_Team5_20190422.pdf)
 - Authors: Aishwarya Swaminathan and Siddarth Chandrasekaran
 
-# Authors and Attribution
-
 ## Raw data
 
 The raw file of the surey data is available in the [data folder](./data). Please note that any information that can be traced back to our respondent's identity have been removed.
 
 Zenodo link: Will be added soon.
 DOI: Will be added soon.
+
+# Authors and Attribution
+
+This project was designed, executed, and written by a number of scientists who crowdsourced it online in their spare time.
 
 # License
 
