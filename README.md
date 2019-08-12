@@ -48,7 +48,7 @@ DOI: Will be added soon.
 
 # Authors and Attribution
 
-This project was designed, executed, and written by a number of scientists who crowdsourced it online in their spare time.
+This project was designed, executed, and written by a number of scientists, currently located in different cities in the India, Europe, and USA. [Read about them](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/authors_contributors.md).
 
 # License
 
