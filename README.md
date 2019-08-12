@@ -14,7 +14,7 @@ currently located in different cities in the India, Europe, and USA.
 
 ## Raw data
 
-The raw file of the surey data is available in the [data folder](./data). 
+The raw file of the surey data is available in the [data folder](https://github.com/csgsciencesurvey/WISCSG2018/tree/master/data). 
 Please note that any information that can be traced back to our respondent's identity have been removed.
 
 *Zenodo link and DOI will be added soon.*
@@ -57,8 +57,8 @@ You can find the report of the data analysis, and related articles as a 5-part s
 # License
 
 Documentation and articles associated with this work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](./CC-BY-SA-4.0).
-The source codes are available under the [MIT licence](./code/LICENSE). 
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/CC-BY-SA-4.0).
+The source codes are available under the [MIT licence](https://github.com/csgsciencesurvey/WISCSG2018/blob/master/code/LICENSE). 
 Please attach a copy of these licenses along with this
 work. 
 
