@@ -1,5 +1,6 @@
-## Data analysis for the responses categorised in the
-section "Bias I"
+# Data for the 'Bias' sections
+
+## Data for the responses categorised in the section "Bias I"
 
 ### Here we analyse two sets of survey response data:
 1. If our survey responders experienced bias at their workplace from their colleagues
@@ -7,8 +8,7 @@ section "Bias I"
 We have combined the responses to non-gender specifically identify such bias based on their nationality and
 country of residence. Furthermore, we have separately analyzed gender specific datasets as shown below.
 
-## Data analysis for the responses categorised in the
-section "Bias II"
+## Data analysis for the responses categorised in the section "Bias II"
 
 ### Here we try to assess the reaction towards or action taken against gender-bias/harassment experienced or
 witnessed by our survey takers. The questions we asked in this categories are:
