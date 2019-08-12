@@ -41,22 +41,23 @@ You can find the related articles as a 5-part series on ClubSciWri. A local vers
 
 ## Raw data
 
-The raw file of the surey data is available in the [data folder](./data). Please note that any information that can be traced back to our respondent's identity have been removed.
+The raw file of the surey data is available in the [data folder](./data). 
+Please note that any information that can be traced back to our respondent's identity have been removed.
 
 Zenodo link: Will be added soon.
 DOI: Will be added soon.
 
 # Authors and Attribution
 
-This project was designed, executed, and written by a number of scientists, currently located in different cities in the India, Europe, and USA. [Read about them](./authors_contributors.md).
+This project was designed, executed, and written by a number of scientists, 
+currently located in different cities in the India, Europe, and USA. 
+[Read about them](./authors_contributors.md).
 
 # License
 
 Documentation and articles associated with this work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](./CC-BY-SA-4.0).
-
-The source codes are available under the [MIT licence](./code/LICENSE).
-
+The source codes are available under the [MIT licence](./code/LICENSE). 
 Please attach a copy of these licenses along with this
 work. 
 
