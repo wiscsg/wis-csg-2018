@@ -57,6 +57,8 @@ You can find the report of the data analysis, and related articles as a 5-part s
 - [The Work-Life Equilibrium: In-Balance or Imbalance?](./posts/part-5-the-work-life-equilibrium.md), earlier version on [sciwri.club](https://www.sciwri.club/wp-content/uploads/2019/04/CGS-WiS_Team5_20190422.pdf)
 - Authors: [Aishwarya Swaminathan and Siddarth Chandrasekaran](./authors_contributors.md)
 
+[Shraddha Lad](./authors_contributors.md) took an important role of coordinating this project.
+
 # License
 
 Documentation and articles associated with this work is licensed under a
