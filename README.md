@@ -1,12 +1,10 @@
 # WiS-CSG: Women in Science - Career Support Group
 
+## Project: *Women in Science* Survey 2018
+
 [![DOI](https://zenodo.org/badge/201889459.svg)](https://zenodo.org/badge/latestdoi/201889459)
 
-WiS-CSG is a community of volunteers who aim to highlight the different challenges faced by women in science.
-
-# About *Women in Science* Survey 2018
-
-The Women in Science (WiS) survey 2018 was led by a group of volunteers with an aim to understand and highlight the challenges faced by women in Science. 219 international participants responded to this survey to help us identify the gaps in the support received by women researchers in a professional STEM environment. The report from this survey is available on this page as an Open Source project.
+Women in Science (WiS) survey project was led by a group of volunteers in 2018 in order to report a data-driven report on the challenges faced by women in Science. A total of 219 international participants responded to this survey to help identify the gaps in the support received by women researchers in a professional STEM environment. The report from this survey is available as Open Source project. (more details below)
 
 ## Authors and Attribution
 
