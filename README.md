@@ -18,7 +18,12 @@ The raw file of the survey data is available in the [data folder](https://github
 Please note that any information that can be traced back to our respondent's identity has been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://
 .com/wiscsg/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the survey. 
 
-*Zenodo link and DOI will be added soon.*
+# License
+
+Documentation and articles associated with this work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/wiscsg/wis-csg-2018/blob/master/CC-BY-SA-4.0). Any associated source code is available under the [MIT license](https://github.com/wiscsg/wis-csg-2018/blob/master/code/LICENSE). 
+
+Please attach a copy of these licenses along with the DOI listed in this page. 
 
 ## Analysis and Report
 
@@ -56,14 +61,6 @@ You can find the report of the data analysis, and related articles as a 5-part s
 - Authors: [Aishwarya Swaminathan and Siddarth Chandrasekaran](./authors_contributors.md)
 
 [Shraddha Lad](./authors_contributors.md) took an important role of coordinating this project.
-
-# License
-
-Documentation and articles associated with this work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/wiscsg/wis-csg-2018/blob/master/CC-BY-SA-4.0).
-The source codes are available under the [MIT license](https://github.com/wiscsg/wis-csg-2018/blob/master/code/LICENSE). 
-Please attach a copy of these licenses along with this
-work. 
 
 # Code of Conduct
 
