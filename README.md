@@ -2,17 +2,17 @@
 
 [![DOI](https://zenodo.org/badge/201889459.svg)](https://zenodo.org/badge/latestdoi/201889459)
 
-WiS-CSG is a group of volunteers that evolved from the [StemPeers](http://www.stempeers.org/), previously known as Career Support Group (CSG), who aim to highlight the different challenges faced by women in science. 
+WiS-CSG is a community of volunteers who aim to highlight the different challenges faced by women in science.
 
 # About *Women in Science* Survey 2018
 
-In early 2018, a post on StemPeers (CSG) asking about the challenges faced by women in their workplace/graduate school, got an overwhelming response. There were stories and struggles shared, but also support and willingness to take action. This led to the inception of Women in Science (WiS), a group of volunteers both women and men who aim to highlight the challenges faced by women in their lives. This survey is a part of an initiative to identify and address gaps in the support received by women researchers in a professional STEM environment. 
+The Women in Science (WiS) survey 2018 was led by a group of volunteers with an aim to understand and highlight the challenges faced by women in Science. 219 international participants responded to this survey to help us identify the gaps in the support received by women researchers in a professional STEM environment. The report from this survey is available on this page as an Open Source project.
 
 ## Authors and Attribution
 
-This project was designed, executed, and written by several scientists, 
-currently located in different cities in India, Europe, and the USA. 
-[Read about them](./authors_contributors.md).
+This project was designed, executed, coordinated and written by several scientists, 
+located in different cities in India, Europe, and the USA. 
+[Read about them](./authors_contributors.md). (see the articles below)
 
 ## Raw data
 
