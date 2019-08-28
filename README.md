@@ -1,10 +1,10 @@
 # WiS-CSG: Women in Science - Career Support Group
 
-## Project: *Women in Science* Survey 2018
+## Project: *Women in Research and Support System*: Survey Project, 2018-2019
 
 [![DOI](https://zenodo.org/badge/201889459.svg)](https://zenodo.org/badge/latestdoi/201889459)
 
-Women in Science (WiS) survey project was led by a group of volunteers in 2018 in order to develop a data-driven report on the challenges faced by women in Science. A total of 219 international participants responded to this survey to help identify the gaps in the support received by women researchers in a professional STEM environment. The report from this survey is available as Open Source project. (more details below)
+The 'Women in Research and Support System' survey project was led by a group of volunteers in 2018 in order to develop a data-driven report on the challenges faced by women in Science. A total of 219 international participants responded to this survey to help identify the gaps in the support received by women researchers in a professional STEM environment. The report from this survey is available as Open Source project. (more details below)
 
 ## Authors and Attribution
 
