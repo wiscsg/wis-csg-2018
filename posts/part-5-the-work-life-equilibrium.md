@@ -1,6 +1,6 @@
 # The Work-Life Equilibrium: In-Balance or Imbalance?
 
-| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) |
+| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) |
 
 - Authors: [Aishwarya Swaminathan and Siddarth Chandrasekaran](../authors_contributors.md)
 
@@ -44,4 +44,4 @@ professional and personal lives
 parental/sick/ personal leave of absence
 - Workplace offered childcare related support
 
-| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) | 
+| [PREVIOUS POST](./part-4-gender-diversity-paradox.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | 
