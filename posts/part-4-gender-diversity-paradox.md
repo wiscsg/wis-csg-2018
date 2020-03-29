@@ -1,6 +1,6 @@
 # Gender Diversity Paradox: Her Leadership Story
 
-| [PREVIOUS POST](part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) | [NEXT POST](part-5-the-work-life-equilibrium.md) |
+| [PREVIOUS POST](./part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-5-the-work-life-equilibrium.md) |
 
 - Authors: [Soudeh Yaghouti and Poorva Dharkar](../authors_contributors.md)
 
@@ -78,4 +78,4 @@ women leadership and discuss how embracing
 diversity can help us advance towards gender parity in
 STEM.
 
-| [PREVIOUS POST](part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) | [NEXT POST](part-5-the-work-life-equilibrium.md) |
+| [PREVIOUS POST](./part-3-biased-action-effective-reaction.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-5-the-work-life-equilibrium.md) |
