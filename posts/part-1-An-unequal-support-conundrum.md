@@ -1,6 +1,6 @@
 # An unequal support conundrum 
 
-| [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-2-gender-bias-myth-or-fact) |
+| [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
 
 - Authors: [Shubhendu Sen, Divya Swaminathan](../authors_contributors.md)
 
@@ -31,4 +31,4 @@ the mentor, colleague, collaborator or family member
 was a variable the respondents had to consider. 
 
 
-| [RETURN HOME](https://github.com/wiscsg/wis-csg-2018) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
+| [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-2-gender-bias-myth-or-fact.md) |
