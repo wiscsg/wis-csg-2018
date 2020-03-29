@@ -2,9 +2,7 @@
 
 | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018/) |
 
-(Name, Affiliation at the time of contribution) 
-
-*sorted alphabetically*
+*Name appears in alphabetical order, and affiliations are shown as at the time of contribution*
 
 ## This survey was designed by the following members 
 
