@@ -8,15 +8,13 @@ The 'Women in Research and Support System' survey project was led by a group of 
 
 ## Authors and Attribution
 
-This project was designed, executed, coordinated and written by several scientists, 
-located in different cities in India, Europe, and the USA. 
-[Read about them](./authors_contributors.md). (see the articles below)
+This project was designed, executed, coordinated and written by [several scientists](./authors_contributors.md), 
+located in different cities in India, Europe, and the USA. (see the articles below)
 
 ## Raw data
 
 The raw file of the survey data is available in the [data folder](https://github.com/wiscsg/wis-csg-2018/tree/master/data). 
-Please note that any information that can be traced back to our respondent's identity has been removed. The original set of questions and possible choices can be seen by [downloading the pdf file](https://
-.com/wiscsg/WiS-CSG/raw/master/data/wiscsg2018-survey-preview.pdf) of the survey. 
+Please note that any information that can be traced back to our respondent's identity has been removed.
 
 # License
 
