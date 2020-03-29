@@ -1,6 +1,6 @@
 # Gender Bias: Myth or Fact?
 
-| [PREVIOUS POST](part-1-An-unequal-support-conundrum.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](part-3-biased-action-effective-reaction.md) |
+| [PREVIOUS POST](./part-1-An-unequal-support-conundrum.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-3-biased-action-effective-reaction.md) |
 
 - Authors: [Ashwani Kumar and Shivasankari Gomathinayagam](../authors_contributors.md)
 
@@ -45,4 +45,4 @@ was applied to calculate a statistical significance and
 only significant results have been discussed in this
 article. 
 
-| [PREVIOUS POST](part-1-An-unequal-support-conundrum.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](part-3-biased-action-effective-reaction.md) |
+| [PREVIOUS POST](./part-1-An-unequal-support-conundrum.md) | [RETURN HOME](https://wiscsg.github.io/wis-csg-2018) | [NEXT POST](./part-3-biased-action-effective-reaction.md) |
